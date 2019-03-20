@@ -6,6 +6,10 @@ h1 {
   color: #38369A;
 }
 
- .mdl-button {
-   margin-left: .7rem;
- }
+.mdl-textfield__input {
+  width: 335px;
+}
+
+.mdl-button {
+  margin-top: 10px;
+}
